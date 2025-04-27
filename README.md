@@ -94,7 +94,22 @@ This project implements a **fully secured JWT-based authentication system** for 
 2. POST to `/api/v1/auth/signin` → login with credentials → receive token in cookie and Authorization header.
 3. Access a protected route → token is extracted and verified automatically.
 
----
+##  Demo
+<div align="center">
+  <img src="src/assets/Capture d'écran 2025-04-27 065613.png" alt="Image 1" />
+</div>
+<div align="center">
+  <img src="src/assets/Capture d'écran 2025-04-27 065642.png" alt="Image 2" />
+</div>
+<div align="center">
+  <img src="src/assets/Capture d'écran 2025-04-27 065711.png" alt="Image 3" />
+</div>
+<div align="center">
+  <img src="src/assets/Capture d'écran 2025-04-27 065753.png" alt="Image 4" />
+</div>
+<div align="center">
+  <img src="src/assets/Capture d'écran 2025-04-27 065812.png" alt="Image 5" />
+</div>
 
 #  Project Ready for Production with Secure Authentication!
 
