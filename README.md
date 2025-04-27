@@ -96,19 +96,13 @@ This project implements a **fully secured JWT-based authentication system** for 
 
 ##  Demo
 <div align="center">
-  <img src="src/assets/Capture d'écran 2025-04-27 065613.png" alt="Image 1" />
+  <img src="Screenshot 2025-04-27 092807.png" alt="Image 1" />
 </div>
 <div align="center">
-  <img src="src/assets/Capture d'écran 2025-04-27 065642.png" alt="Image 2" />
+  <img src="Screenshot 2025-04-27 092836.png" alt="Image 2" />
 </div>
 <div align="center">
-  <img src="src/assets/Capture d'écran 2025-04-27 065711.png" alt="Image 3" />
-</div>
-<div align="center">
-  <img src="src/assets/Capture d'écran 2025-04-27 065753.png" alt="Image 4" />
-</div>
-<div align="center">
-  <img src="src/assets/Capture d'écran 2025-04-27 065812.png" alt="Image 5" />
+  <img src="Screenshot 2025-04-27 092918.png" alt="Image 3" />
 </div>
 
 #  Project Ready for Production with Secure Authentication!
