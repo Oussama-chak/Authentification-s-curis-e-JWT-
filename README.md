@@ -104,6 +104,9 @@ This project implements a **fully secured JWT-based authentication system** for 
 <div align="center">
   <img src="Screenshot 2025-04-27 092918.png" alt="Image 3" />
 </div>
+<div align="center">
+  <img src="Screenshot 2025-04-27 094614.png" alt="Image 3" />
+</div>
 
 #  Project Ready for Production with Secure Authentication!
 
